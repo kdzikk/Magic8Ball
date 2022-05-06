@@ -6,8 +6,8 @@ const error = document.querySelector('.error')
 const answersArr = [
 	'Tak.',
 	'Nie.',
-	'Może',
-	'Ciężko powiedzieć',
+	'Może.',
+	'Ciężko powiedzieć.',
 	'Nie chce znać odpowiedzi na to pytanie..',
 ]
 
